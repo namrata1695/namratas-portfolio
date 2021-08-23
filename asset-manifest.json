@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/namratas-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/namratas-portfolio/static/js/main.0a0a0e19.chunk.js",
+    "main.js.map": "/namratas-portfolio/static/js/main.0a0a0e19.chunk.js.map",
+    "runtime-main.js": "/namratas-portfolio/static/js/runtime-main.1391957c.js",
+    "runtime-main.js.map": "/namratas-portfolio/static/js/runtime-main.1391957c.js.map",
+    "static/js/2.5532be39.chunk.js": "/namratas-portfolio/static/js/2.5532be39.chunk.js",
+    "static/js/2.5532be39.chunk.js.map": "/namratas-portfolio/static/js/2.5532be39.chunk.js.map",
+    "static/js/3.4442cee7.chunk.js": "/namratas-portfolio/static/js/3.4442cee7.chunk.js",
+    "static/js/3.4442cee7.chunk.js.map": "/namratas-portfolio/static/js/3.4442cee7.chunk.js.map",
+    "index.html": "/namratas-portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/namratas-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5532be39.chunk.js.LICENSE.txt": "/namratas-portfolio/static/js/2.5532be39.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/namratas-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1391957c.js",
+    "static/js/2.5532be39.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0a0a0e19.chunk.js"
+  ]
+}
